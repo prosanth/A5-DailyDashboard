@@ -1,2 +1,2 @@
 # DailyDashboard
-https://ruan-andy.github.io/DailyDashboard/login.html
+https://prosanth.github.io/A5-DailyDashboard/login.html
